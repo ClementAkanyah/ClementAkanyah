@@ -52,5 +52,5 @@ I'm continuing to develop practical Cloud and DevOps projects focused on:
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/clement-akanyah/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_home%3BIl5rGyhUT66wENQHVeUj2A%3D%3D
+- LinkedIn: https://www.linkedin.com/in/clement-akanyah/
 - GitHub: https://github.com/ClementAkanyah
