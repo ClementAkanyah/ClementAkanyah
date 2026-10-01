@@ -1,8 +1,7 @@
 # Hi, I'm Clement Akanyah 
 
-## Cloud Engineer
+## AWS Certified Cloud Practitioner | Cloud and DevOps Engineer Intern
 
-AWS Certified Cloud Practitioner | Cloud and DevOps Engineer Intern
 I am completing a B.S. in Information Security in December 2026.  
 
 I build AWS infrastructure and automated application-delivery workflows using Terraform, Docker, ECS Fargate, EKS, Kubernetes, Jenkins, GitHub Actions, Argo CD, Helm, and Ansible. My projects emphasize repeatable infrastructure, secure AWS authentication, autoscaling, troubleshooting, and technical documentation.
