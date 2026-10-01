@@ -25,7 +25,7 @@ Built an automated application-delivery platform on Amazon EKS with two deployme
 
 **Key technologies:** AWS, Amazon EKS, Terraform, Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Argo CD, HPA, Cluster Autoscaler
 
-[View Project](https://github.com/ClementAkanyah/tech-challenge-2)
+[View Project](https://github.com/ClementAkanyah/aws-eks-gitops-platform)
 
 ---
 
@@ -35,7 +35,7 @@ Deployed independently scaling React and Node.js services on Amazon ECS Fargate 
 
 **Key technologies:** AWS, Terraform, Docker, Amazon ECS Fargate, Amazon ECR, Jenkins, GitHub Actions, OIDC, Application Load Balancer
 
-[View Project](https://github.com/ClementAkanyah/devops-tech-challenge-1)
+[View Project](https://github.com/ClementAkanyah/aws-ecs-fargate-cicd-platform)
 
 ### 3. Terraform and Ansible AWS Automation
 
@@ -43,7 +43,7 @@ Provisioned six AWS resources using Terraform and automated Nginx installation a
 
 **Key technologies:** AWS, Terraform, Ansible, Amazon EC2, Amazon S3, IAM, Linux, Nginx, SSH
 
-[View Project](https://github.com/ClementAkanyah/coding-challenge-3)
+[View Project](https://github.com/ClementAkanyah/terraform-ansible-aws-automation)
 
 ### 4. WordPress Autoscaling on Amazon EKS
 
@@ -51,7 +51,7 @@ Deployed WordPress and MySQL on a three-node Amazon EKS cluster using Kubernetes
 
 **Key technologies:** AWS, Amazon EKS, Kubernetes, Helm, Docker, Siege, Metrics Server, Horizontal Pod Autoscaler
 
-[View Project](https://github.com/ClementAkanyah/deploying-microservices-on-amazon-eks)
+[View Project](https://github.com/ClementAkanyah/eks-wordpress-autoscaling)
 
 
 ## Currently Preparing
